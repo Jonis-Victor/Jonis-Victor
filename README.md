@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonis-victor" alt="jonis-victor" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React JS, Next.JS and Node.JS**
+- 🌱 I’m currently learning **React JS, Next.JS and Node.JS**
 
-- 👨‍💻 All of my projects are available at [Em breve.](Em breve.)
-
+- 👨‍💻 All of my projects are available at <a href="https://jonisvictor.vercel.app/">**my portfolio**</a>
 - 📫 How to reach me **joaovitortunes3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
